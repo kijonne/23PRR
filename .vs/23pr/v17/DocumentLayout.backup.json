@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0412\u0421\u041F\u0420\u041E\u0415\u041A\u0422\u042B\\23pr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{266FC0EE-6DAA-446F-AFE4-76E1CF8B9B8D}|23pr\\23pr.csproj|d:\\\u0432\u0441\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\23pr\\23pr\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{266FC0EE-6DAA-446F-AFE4-76E1CF8B9B8D}|23pr\\23pr.csproj|solutionrelative:23pr\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266FC0EE-6DAA-446F-AFE4-76E1CF8B9B8D}|23pr\\23pr.csproj|d:\\\u0432\u0441\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\23pr\\23pr\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266FC0EE-6DAA-446F-AFE4-76E1CF8B9B8D}|23pr\\23pr.csproj|solutionrelative:23pr\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266FC0EE-6DAA-446F-AFE4-76E1CF8B9B8D}|23pr\\23pr.csproj|d:\\\u0432\u0441\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\23pr\\23pr\\ex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{266FC0EE-6DAA-446F-AFE4-76E1CF8B9B8D}|23pr\\23pr.csproj|solutionrelative:23pr\\ex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266FC0EE-6DAA-446F-AFE4-76E1CF8B9B8D}|23pr\\23pr.csproj|d:\\\u0432\u0441\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\23pr\\23pr\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266FC0EE-6DAA-446F-AFE4-76E1CF8B9B8D}|23pr\\23pr.csproj|solutionrelative:23pr\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266FC0EE-6DAA-446F-AFE4-76E1CF8B9B8D}|23pr\\23pr.csproj|d:\\\u0432\u0441\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\23pr\\23pr\\ex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266FC0EE-6DAA-446F-AFE4-76E1CF8B9B8D}|23pr\\23pr.csproj|solutionrelative:23pr\\ex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266FC0EE-6DAA-446F-AFE4-76E1CF8B9B8D}|23pr\\23pr.csproj|d:\\\u0432\u0441\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\23pr\\23pr\\ex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{266FC0EE-6DAA-446F-AFE4-76E1CF8B9B8D}|23pr\\23pr.csproj|solutionrelative:23pr\\ex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266FC0EE-6DAA-446F-AFE4-76E1CF8B9B8D}|23pr\\23pr.csproj|d:\\\u0432\u0441\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\23pr\\23pr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266FC0EE-6DAA-446F-AFE4-76E1CF8B9B8D}|23pr\\23pr.csproj|solutionrelative:23pr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266FC0EE-6DAA-446F-AFE4-76E1CF8B9B8D}|23pr\\23pr.csproj|d:\\\u0432\u0441\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\23pr\\23pr\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266FC0EE-6DAA-446F-AFE4-76E1CF8B9B8D}|23pr\\23pr.csproj|solutionrelative:23pr\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266FC0EE-6DAA-446F-AFE4-76E1CF8B9B8D}|23pr\\23pr.csproj|d:\\\u0432\u0441\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\23pr\\23pr\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{266FC0EE-6DAA-446F-AFE4-76E1CF8B9B8D}|23pr\\23pr.csproj|solutionrelative:23pr\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266FC0EE-6DAA-446F-AFE4-76E1CF8B9B8D}|23pr\\23pr.csproj|d:\\\u0432\u0441\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\23pr\\23pr\\ex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266FC0EE-6DAA-446F-AFE4-76E1CF8B9B8D}|23pr\\23pr.csproj|solutionrelative:23pr\\ex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ex2.cs",
+              "DocumentMoniker": "D:\\\u0412\u0421\u041F\u0420\u041E\u0415\u041A\u0422\u042B\\23pr\\23pr\\Ex2.cs",
+              "RelativeDocumentMoniker": "23pr\\Ex2.cs",
+              "ToolTip": "D:\\\u0412\u0421\u041F\u0420\u041E\u0415\u041A\u0422\u042B\\23pr\\23pr\\Ex2.cs",
+              "RelativeToolTip": "23pr\\Ex2.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:53:10.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0412\u0421\u041F\u0420\u041E\u0415\u041A\u0422\u042B\\23pr\\23pr\\Program.cs",
+              "RelativeDocumentMoniker": "23pr\\Program.cs",
+              "ToolTip": "D:\\\u0412\u0421\u041F\u0420\u041E\u0415\u041A\u0422\u042B\\23pr\\23pr\\Program.cs",
+              "RelativeToolTip": "23pr\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:51:56.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\\u0412\u0421\u041F\u0420\u041E\u0415\u041A\u0422\u042B\\23pr\\23pr\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "23pr\\MainForm.Designer.cs",
+              "ToolTip": "D:\\\u0412\u0421\u041F\u0420\u041E\u0415\u041A\u0422\u042B\\23pr\\23pr\\MainForm.Designer.cs",
+              "RelativeToolTip": "23pr\\MainForm.Designer.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAASwCsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:49:34.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthForm.cs",
+              "DocumentMoniker": "D:\\\u0412\u0421\u041F\u0420\u041E\u0415\u041A\u0422\u042B\\23pr\\23pr\\AuthForm.cs",
+              "RelativeDocumentMoniker": "23pr\\AuthForm.cs",
+              "ToolTip": "D:\\\u0412\u0421\u041F\u0420\u041E\u0415\u041A\u0422\u042B\\23pr\\23pr\\AuthForm.cs*",
+              "RelativeToolTip": "23pr\\AuthForm.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:34:33.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0412\u0421\u041F\u0420\u041E\u0415\u041A\u0422\u042B\\23pr\\23pr\\AuthForm.cs",
+              "RelativeDocumentMoniker": "23pr\\AuthForm.cs",
+              "ToolTip": "D:\\\u0412\u0421\u041F\u0420\u041E\u0415\u041A\u0422\u042B\\23pr\\23pr\\AuthForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "23pr\\AuthForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:34:25.453Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ex3.cs",
+              "DocumentMoniker": "D:\\\u0412\u0421\u041F\u0420\u041E\u0415\u041A\u0422\u042B\\23pr\\23pr\\Ex3.cs",
+              "RelativeDocumentMoniker": "23pr\\Ex3.cs",
+              "ToolTip": "D:\\\u0412\u0421\u041F\u0420\u041E\u0415\u041A\u0422\u042B\\23pr\\23pr\\Ex3.cs",
+              "RelativeToolTip": "23pr\\Ex3.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:27:42.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ex3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0412\u0421\u041F\u0420\u041E\u0415\u041A\u0422\u042B\\23pr\\23pr\\Ex3.cs",
+              "RelativeDocumentMoniker": "23pr\\Ex3.cs",
+              "ToolTip": "D:\\\u0412\u0421\u041F\u0420\u041E\u0415\u041A\u0422\u042B\\23pr\\23pr\\Ex3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "23pr\\Ex3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:27:23.64Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ex2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0412\u0421\u041F\u0420\u041E\u0415\u041A\u0422\u042B\\23pr\\23pr\\Ex2.cs",
+              "RelativeDocumentMoniker": "23pr\\Ex2.cs",
+              "ToolTip": "D:\\\u0412\u0421\u041F\u0420\u041E\u0415\u041A\u0422\u042B\\23pr\\23pr\\Ex2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "23pr\\Ex2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:22:02.101Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\\u0412\u0421\u041F\u0420\u041E\u0415\u041A\u0422\u042B\\23pr\\23pr\\MainForm.cs",
+              "RelativeDocumentMoniker": "23pr\\MainForm.cs",
+              "ToolTip": "D:\\\u0412\u0421\u041F\u0420\u041E\u0415\u041A\u0422\u042B\\23pr\\23pr\\MainForm.cs",
+              "RelativeToolTip": "23pr\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:16:04.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0412\u0421\u041F\u0420\u041E\u0415\u041A\u0422\u042B\\23pr\\23pr\\MainForm.cs",
+              "RelativeDocumentMoniker": "23pr\\MainForm.cs",
+              "ToolTip": "D:\\\u0412\u0421\u041F\u0420\u041E\u0415\u041A\u0422\u042B\\23pr\\23pr\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "23pr\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:14:32.624Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
